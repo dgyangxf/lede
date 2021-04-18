@@ -27,7 +27,7 @@ env:
   CONFIG_FILE: newifi3.config
   FREE_UP_DISK: false
   SSH_ACTIONS: true
-  UPLOAD_BIN_DIR: false
+  UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
   TZ: Asia/Shanghai
 
